@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
 title: Andre Rico's homepage
 description: This is the description area!
+twitter_username: Your Twitter username
+github_username: Your GitHub username
